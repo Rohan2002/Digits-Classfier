@@ -1,2 +1,2 @@
-# Optimization-Digits-Classfier
-This project is part of my Math:354 Linear Optimization Project.
+# Digits-Classfier
+A straightforward feed-forward neural network to classify digits (0-9)
